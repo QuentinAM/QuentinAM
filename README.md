@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Quentin, I'm 18 years old, and in first year of engineering school at EPITA.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM)](https://github.com/anuraghazra/github-readme-stats)
 
