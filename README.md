@@ -1,7 +1,9 @@
 ### Hi there 👋
 I'm Quentin, I'm 18 years old, and in first year of engineering school at EPITA.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
 <img alt="C#" src="https://img.shields.io/badge/-C%23-8e44ad?style=flat-square&logo=c%20sharp&logoColor=white" />
