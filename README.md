@@ -15,5 +15,5 @@ I'm Quentin, I'm 18 years old, and in first year of engineering school at EPITA.
 
 ### Contact me
 ![Discord](https://img.shields.io/badge/Discord-FoxT3c%233230-blue?style=for-the-badge&logo=discord&logoColor=white)
-[![Mail](https://img.shields.io/badge/Mail-quentin.abel\-marceau@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:quentin.abel-marceau@epita.fr)
+[![Mail](https://img.shields.io/badge/Mail-quentin.abel-marceau@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:quentin.abel-marceau@epita.fr)
 [![Instagram](https://img.shields.io/badge/Instagram-quentin_abm-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/quentin_abm/)
