@@ -1,12 +1,11 @@
 ### Hi there 👋
-I'm Quentin, I'm 18 years old, and in first year of engineering school at EPITA.
+I'm Quentin, I'm 18 years old, and will be on september studying for the second year at EPITA, an engineering school.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently learning differents languages
-
 <p>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="Ocaml" src="https://img.shields.io/badge/-Ocaml-e67e22?style=flat-square&logo=ocaml&logoColor=white" />
