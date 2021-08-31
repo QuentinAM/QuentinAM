@@ -5,7 +5,7 @@ I'm Quentin, I'm 18 years old, and will be on september studying for the second 
 
 - Epita S3 : OCR x Sudoku
 
-### Currently learning differents languages
+### Currently learning several languages
 <p>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" href=""/>
 <img alt="Ocaml" src="https://img.shields.io/badge/-Ocaml-e67e22?style=flat-square&logo=ocaml&logoColor=white" />
