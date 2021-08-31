@@ -5,6 +5,10 @@ I'm Quentin, I'm 18 years old, and will be on september studying for the second 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Current main project(s)
+
+- Epita S3 : OCR x Sudoku
+
 ### Currently learning differents languages
 <p>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
