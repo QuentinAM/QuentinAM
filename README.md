@@ -1,9 +1,10 @@
 ### Hi there 👋
 I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an engineering school.
 
-### Current main project(s)
+### Current project(s)
 
 - Epita S3 : OCR x Sudoku
+- K : Knight game on Unity
 
 ### Currently learning several languages
 <p>
