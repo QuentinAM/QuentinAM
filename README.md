@@ -3,8 +3,7 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 
 ### Current project(s)
 
-- Epita S3 : OCR x Sudoku
-- K : Knight game on Unity
+- Epita S3 : OCR x Sudoku in C (with opticalloop)
 
 ### Currently learning several languages
 <p>
