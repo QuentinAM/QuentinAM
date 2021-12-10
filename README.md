@@ -13,6 +13,7 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 
 ### Currently learning several languages
 <p>
+<img alt="C" src="https://img.shields.io/badge/C-green" href=""/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" href=""/>
 <img alt="Ocaml" src="https://img.shields.io/badge/-Ocaml-e67e22?style=flat-square&logo=ocaml&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
