@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an engineering school.
+I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an engineering school.
 
 ### Current project(s)
 
