@@ -22,9 +22,9 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM&theme=radical)]('')
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM&theme=radical)](https://github.com/QuentinAM/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM&theme=radical)]('')
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM&theme=radical)](https://github.com/QuentinAM/)
 
 ### Contact me
 ![Discord](https://img.shields.io/badge/Discord-FoxT3c%233230-blue?style=for-the-badge&logo=discord&logoColor=white)
