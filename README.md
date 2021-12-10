@@ -5,12 +5,6 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuentinAM&repo=neural-network-c&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/QuentinAM/neural-network-c)
 
-### Past projects :
-
-- EPITA S3 : Sudoku solver using OCR in C with GTK3 and SDL1.2 https://github.com/opticalloop/OCR
-- EPITA S2 : Hell Riders, 3d motorcycle racing game with level editor in C# with Unity
-- EPITA S1 : AFIT, maths project in OCaml
-
 ### Currently learning several languages
 <p>
 <img alt="C" src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white" href=""/>
@@ -26,6 +20,12 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinAM&theme=radical)](https://github.com/QuentinAM/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinAM&theme=radical)](https://github.com/QuentinAM/)
+
+### Past projects :
+
+- EPITA S3 : Sudoku solver using OCR in C with GTK3 and SDL1.2 https://github.com/opticalloop/OCR
+- EPITA S2 : Hell Riders, 3d motorcycle racing game with level editor in C# with Unity
+- EPITA S1 : AFIT, maths project in OCaml
 
 ### Contact me
 ![Discord](https://img.shields.io/badge/Discord-FoxT3c%233230-blue?style=for-the-badge&logo=discord&logoColor=white)
