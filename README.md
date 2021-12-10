@@ -3,7 +3,13 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 
 ### Current project(s)
 
-- Epita S3 : OCR x Sudoku in C (with opticalloop)
+- Refund of the neural network done in a OCR project
+
+### Past projects :
+
+- EPITA S3 : Sudoku solver using OCR in C with GTK3 and SDL1.2 https://github.com/opticalloop/OCR
+- EPITA S2 : Hell Riders, 3d motorcycle racing game with level editor in C# with Unity
+- EPITA S1 : AFIT, maths project in OCaml
 
 ### Currently learning several languages
 <p>
