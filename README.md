@@ -3,7 +3,6 @@ I'm Quentin, I'm 18 years old, studying for the second year at EPITA, an enginee
 
 ### Current project(s)
 
-- Refund of the neural network done in a OCR project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuentinAM&repo=neural-network-c&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/QuentinAM/neural-network-c)
 
 ### Past projects :
