@@ -18,6 +18,7 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="SVELTE" src="https://img.shields.io/badge/SVELTE-red?&style=for-the-badge&logo=SVELTE&logoColor=white"/>
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA-red?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 </p>
 
 ### ✅ Past projects
