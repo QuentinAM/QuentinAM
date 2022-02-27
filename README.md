@@ -15,6 +15,7 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="JAVA" src="https://img.shields.io/badge/JAVA-red?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 <img alt="FIREBASE" src="https://img.shields.io/badge/FIREBASE-yellow?&style=for-the-badge&logo=FIREBASE&logoColor=white"/>
 <img alt="EXPRESS" src="https://img.shields.io/badge/EXPRESS-black?&style=for-the-badge&logo=EXPRESS&logoColor=white"/>
+<img alt="UNITY" src="https://img.shields.io/badge/UNITY-black?&style=for-the-badge&logo=UNITY&logoColor=white"/>
 </p>
 
 ### ✅ Past projects
