@@ -13,8 +13,8 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="SVELTE" src="https://img.shields.io/badge/SVELTE-red?&style=for-the-badge&logo=SVELTE&logoColor=white"/>
 <img alt="JAVA" src="https://img.shields.io/badge/JAVA-red?&style=for-the-badge&logo=JAVA&logoColor=white"/>
-<img alt="FIREBASE" src="https://img.shields.io/badge/FIREBASE-yellow?&style=for-the-badge&logo=FIREBASE&logoColor=white"/>
 <img alt="EXPRESS" src="https://img.shields.io/badge/EXPRESS-black?&style=for-the-badge&logo=EXPRESS&logoColor=white"/>
+<img alt="FIREBASE" src="https://img.shields.io/badge/FIREBASE-yellow?&style=for-the-badge&logo=FIREBASE&logoColor=white"/>
 <img alt="UNITY" src="https://img.shields.io/badge/UNITY-black?&style=for-the-badge&logo=UNITY&logoColor=white"/>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-grey?&style=for-the-badge&logo=GIT&logoColor=white"/>
 </p>
