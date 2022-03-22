@@ -1,5 +1,5 @@
-# ⚠️https://isearthstillwarming.com/⚠️
-# ⚠️https://climate.nasa.gov/vital-signs/global-temperature/⚠️
+# ⚠️https://isearthstillwarming.com/ ⚠️
+# ⚠️https://climate.nasa.gov/vital-signs/global-temperature/ ⚠️
 
 ### 👋 Hi there
 I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an engineering school.
