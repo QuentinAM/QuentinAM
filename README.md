@@ -22,6 +22,7 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="UNITY" src="https://img.shields.io/badge/UNITY-black?&style=for-the-badge&logo=UNITY&logoColor=white"/>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-grey?&style=for-the-badge&logo=GIT&logoColor=white"/>
 <img alt="REACT" src="https://img.shields.io/badge/REACT-black?&style=for-the-badge&logo=REACT&logoColor=cyan"/>
+<img alt="TAILWINDCSS" src="https://img.shields.io/badge/TAILWINDCSS-beige?&style=for-the-badge&logo=TAILWINDCSS&logoColor=cyan"/>
 </p>
 
 ### ✅ Past projects
