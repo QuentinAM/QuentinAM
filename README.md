@@ -14,6 +14,7 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="TAILWINDCSS" src="https://img.shields.io/badge/TAILWINDCSS-darkgray?&style=for-the-badge&logo=TAILWINDCSS&logoColor=cyan"/>
 <img alt="FLASK" src="https://img.shields.io/badge/FLASK-black?&style=for-the-badge&logo=FLASK&logoColor=white"/>
 <img alt="SVELTE" src="https://img.shields.io/badge/SVELTE-red?&style=for-the-badge&logo=SVELTE&logoColor=white"/>
 <img alt="EXPRESS" src="https://img.shields.io/badge/EXPRESS-black?&style=for-the-badge&logo=EXPRESS&logoColor=white"/>
@@ -22,7 +23,7 @@ I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an enginee
 <img alt="UNITY" src="https://img.shields.io/badge/UNITY-black?&style=for-the-badge&logo=UNITY&logoColor=white"/>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-grey?&style=for-the-badge&logo=GIT&logoColor=white"/>
 <img alt="REACT" src="https://img.shields.io/badge/REACT-black?&style=for-the-badge&logo=REACT&logoColor=cyan"/>
-<img alt="TAILWINDCSS" src="https://img.shields.io/badge/TAILWINDCSS-beige?&style=for-the-badge&logo=TAILWINDCSS&logoColor=cyan"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-lightgray?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
 </p>
 
 ### ✅ Past projects
