@@ -4,7 +4,7 @@
 ### 👋 Hi there
 I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an engineering school.
 
-### 💻 My website : https://quentinam.vercel.app/
+### 💻 My website : https://quentinam.fr/
 
 ### ⚙️ Currently using/learning several tools
 <p>
