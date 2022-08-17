@@ -2,7 +2,7 @@
 ### ⚠️https://climate.nasa.gov/vital-signs/global-temperature/ ⚠️
 
 ### 👋 Hi there
-I'm Quentin, I'm 19 years old, studying for the second year at EPITA, an engineering school.
+I'm Quentin, I'm 19 years old, studying at EPITA to become engineering in IT.
 
 ### 💻 My website : https://quentinam.fr/
 
