@@ -2,9 +2,7 @@
 ### ⚠️https://climate.nasa.gov/vital-signs/global-temperature/ ⚠️
 
 ### 👋 Hi there
-I'm Quentin, I'm 19 years old, studying at EPITA to become engineering in IT.
-
-### 💻 My website : https://quentinam.fr/
+I'm Quentin, I graduated from the IT engineering school EPITA in 
 
 ### ⚙️ Currently using/learning several tools
 <p>
@@ -34,6 +32,7 @@ I'm Quentin, I'm 19 years old, studying at EPITA to become engineering in IT.
 - EPITA S3 : Sudoku solver using [OCR](https://github.com/opticalloop/OCR) in **C** with GTK3 and SDL1.2
 - EPITA S2 : Hell Riders, 3D motorcycle racing game with level editor in **C#** with Unity
 - EPITA S1 : AFIT, maths project in **OCaml**
+- And many others...
 
 ### 📊 Stats
 
