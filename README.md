@@ -2,7 +2,7 @@
 ### ⚠️https://climate.nasa.gov/vital-signs/global-temperature/ ⚠️
 
 ### 👋 Hi there
-I'm Quentin, I graduated from the IT engineering school EPITA in 
+I'm Quentin, I graduated from the IT engineering school EPITA in 2025 !
 
 ### ⚙️ Currently using/learning several tools
 <p>
